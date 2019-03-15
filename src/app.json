@@ -1,14 +1,12 @@
-    {
+{
   "pages":[
-    "page/wxml/yemian",
-    "page/wxml/index",
     "pages/index/index",
     "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "报名系统",
+    "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle":"black"
   }
 }

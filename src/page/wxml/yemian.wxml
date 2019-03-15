@@ -1,7 +1,0 @@
-<!--page/wxml/yemian.wxml-->
-<button bindtap='toast1'>活动1
-</button>
-<button bindtap='toast2'>活动2
-</button>
-<button bindtap='toast3'>活动3
-</button>

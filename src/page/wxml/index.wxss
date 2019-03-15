@@ -1,0 +1,45 @@
+/* page/wxml/index.wxss */
+page{
+  font-size: 30rpx;
+}
+.left{float:left}
+.right{float:left}
+.index-seach{
+  width: 100%;
+  margin-top: 20rpx;
+  height: auto;
+  margin-bottom:30rpx;
+}
+.input_w{
+  width: 100%;
+  height: 90rpx;
+  line-height: 90rpx;
+/*background:lightblue*/
+}
+.input_w text{
+  display: block;
+  width: 20%;
+  text-align: center;
+  /*background;red;*/
+}
+.input_w.input{
+  width: 75%;
+  height: 70rpx;
+  margin-top: 10rpx;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.input input{
+  margin-top: 10rpx;
+  margin-left: 10rpx;
+  /*background:lightblue;*/
+}
+.subClass_btn2{
+  margin-top: 40rpx;
+  width: 80%;
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 30rpx;
+  color: #fff;
+  background: #20bd03;
+}
